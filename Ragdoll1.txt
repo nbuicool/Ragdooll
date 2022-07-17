@@ -1,11 +1,7 @@
-//Apploving
-SdkKeyBegin##{oNnfF1hByqkkBNniFdQst-1OAS-bBC6JTwWcJP0}##LastSdkKey
-bannerIdBegin##{a}##LastbannerId
-InterIdBegin##{d57c5ca95777426a}##LastInterId
-RewordIdBegin##{635409b}##LastRewordId
-//url More Game And also when game suspend we just add new link to url more game
-UrlMoreGameBegin##{}##LastUrlMoreGame
-//url sheir button
-UrlSHareBegin##{}##LastUrlSHare
-//we put true if the game suspend and we change urlmore game to new link
-IssuspendBegin##{true}##LastIssuspend
+//appKey IronSource
+AppKeyBegin##{157b19e99}##LastAppKey
+moregameBegin##{}##Lastmoregame
+SheireBegin##{}##Sheiregame
+UrlRateUsBegin##{}##LastUrlRateUs
+IsfreedBegin##{true}##LastIsfreed
+IsIsuspendBegin##{false}##LastIsIsuspend;
