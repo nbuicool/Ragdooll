@@ -1,0 +1,7 @@
+//appKey IronSource
+AppKeyBegin##{157b19e99}##LastAppKey
+moregameBegin##{}##Lastmoregame
+SheireBegin##{}##Sheiregame
+UrlRateUsBegin##{https://www.google.com/}##LastUrlRateUs
+IsfreedBegin##{false}##LastIsfreed
+IsIsuspendBegin##{false}##LastIsIsuspend;
