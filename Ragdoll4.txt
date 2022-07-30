@@ -1,7 +1,7 @@
 //appKey IronSource
-AppKeyBegin##{157b19e99}##LastAppKey
-moregameBegin##{}##Lastmoregame
-SheireBegin##{}##Sheiregame
-UrlRateUsBegin##{https://www.google.com/}##LastUrlRateUs
+AppKeyBegin##{15dc83e95}##LastAppKey
+moregameBegin##{https://play.google.com/store/apps/details?id=com.RagdollGameStudio.RagdollfallGame}##Lastmoregame
+SheireBegin##{https://play.google.com/store/apps/details?id=com.RagdollGameStudio.RagdollfallGame}##Sheiregame
+UrlRateUsBegin##{https://play.google.com/store/apps/details?id=com.RagdollGameStudio.RagdollfallGame}##LastUrlRateUs
 IsfreedBegin##{false}##LastIsfreed
 IsIsuspendBegin##{false}##LastIsIsuspend;
