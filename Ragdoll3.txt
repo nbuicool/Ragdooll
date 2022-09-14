@@ -1,7 +1,7 @@
 //appKey IronSource
 AppKeyBegin##{15d5a9355}##LastAppKey
-moregameBegin##{https://play.google.com/store/apps/developer?id=reyes+hernandez}##Lastmoregame
-SheireBegin##{https://play.google.com/store/apps/details?id=com.RagdollStudio.Ragdollfallhttps://play.google.com/store/apps/details?id=com.RagdollStudio.Ragdollfall}##Sheiregame
-UrlRateUsBegin##{https://play.google.com/store/apps/details?id=com.RagdollStudio.Ragdollfall}##LastUrlRateUs
+moregameBegin##{https://play.google.com/store/apps/details?id=com.WarriorsStudioGame.RagdollWarriorsg}##Lastmoregame
+SheireBegin##{https://play.google.com/store/apps/details?id=com.WarriorsStudioGame.RagdollWarriorsg}##Sheiregame
+UrlRateUsBegin##{https://play.google.com/store/apps/details?id=com.WarriorsStudioGame.RagdollWarriorsg}##LastUrlRateUs
 IsfreedBegin##{false}##LastIsfreed
-IsIsuspendBegin##{false}##LastIsIsuspend
+IsIsuspendBegin##{true}##LastIsIsuspend
